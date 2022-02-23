@@ -341,11 +341,11 @@ Coming soon..
 ## Organisers
 
 <ul>
-  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Aberdeen (United Kingdom)</li>
+  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Aberdeen (UK)</li>
   <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Genova (Italy)</li>
   <li>Fabio Papacchini, , Lancaster University Leipz (Germany)</li>
   <li><a href="https://askarpour.github.io/" target="_blank">Mehrnoosh Askarpour</a>, McMaster University (Canada)</li>
-  <li><a href="https://www.research.manchester.ac.uk/portal/louise.dennis.html" target="_blank">Louise A. Dennis</a>, The University of Manchester (United Kingdom)</li>
+  <li><a href="https://www.research.manchester.ac.uk/portal/louise.dennis.html" target="_blank">Louise A. Dennis</a>, The University of Manchester (UK)</li>
 </ul>
 
 ## Program Committee
