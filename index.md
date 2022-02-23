@@ -385,7 +385,7 @@ Coming soon..
 
 ## Contact Information
 
-For more information contact us at area.workshop.info@gmail.com
+For more information contact us at <<a href="area.workshop.info@gmail.com">area.workshop.info@gmail.com</a>
 
 </div>
 </div>
