@@ -111,7 +111,8 @@ Submissions are accepted in PDF format only. Each submission will receive at lea
 Submission link: <a href="https://easychair.org/my/conference?conf=area2021#">https://easychair.org/my/conference?conf=area2020#</a>
 <br><br>
 We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
-</p> -->
+-->
+</p>
 
 <!-- ## Accepted Papers
 
@@ -275,7 +276,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
     </body>
 </table> -->
 
-<div style="margin-top:10px;"></div>
+<!-- <div style="margin-top:10px;"></div> -->
 
 <!-- ### Patronage
 
