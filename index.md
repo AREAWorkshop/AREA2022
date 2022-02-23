@@ -8,10 +8,10 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div markdown="1">
 
 <!--<div style="float:left; clear:right; width:50%">
-<img src="../../images/logos/area_logo_1.png" style="width:250px"/>
+<img src="../images/logos/area_logo_1.png" style="width:250px"/>
 </div>-->
 <div>
-<img src="../../images/logos/area_logo_1.png" style="width:250px"/>
+<img src="../images/logos/area_logo_1.png" style="width:250px"/>
 </div>
 
 </div>
@@ -21,10 +21,10 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div markdown="1">
 
 <!--<div style="float:left; clear:right; width:50%">
-<img src="../../images/logos/ecai_logo.png" style="width:250px"/>
+<img src="../images/logos/ecai_logo.png" style="width:250px"/>
 </div>-->
 <div>
-<img src="../../images/logos/ecai_logo.png" style="width:250px"/>
+<img src="../images/logos/ecai_logo.png" style="width:250px"/>
 </div>
 
 </div>
@@ -275,16 +275,16 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 ### Patronage
 
 <a href="https://rainhub.org.uk/" target="_blank">
-  <img align="left" src="../../images/logos/RAIN.png" style="height:100px" style="width:100px" alt="RAIN Hub" title="RAIN Hub" hspace="10"/>
+  <img align="left" src="../images/logos/RAIN.png" style="height:100px" style="width:100px" alt="RAIN Hub" title="RAIN Hub" hspace="10"/>
 </a>
 <a href="https://orcahub.org/" target="_blank">
-  <img align="left" src="../../images/logos/orca.jpeg" style="height:100px" style="width:100px" alt="ORCA Hub" title="ORCA Hub" hspace="10"/>
+  <img align="left" src="../images/logos/orca.jpeg" style="height:100px" style="width:100px" alt="ORCA Hub" title="ORCA Hub" hspace="10"/>
 </a>
 <a href="https://www.fairspacehub.org/" target="_blank">
-  <img align="left" src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="height:100px" style="width:150px" alt="FAIR-SPACE Hub" title="FAIR-SPACE Hub" hspace="20"/>
+  <img align="left" src="../images/logos/FAIR-SPACE_Logo_Col.png" style="height:100px" style="width:150px" alt="FAIR-SPACE Hub" title="FAIR-SPACE Hub" hspace="20"/>
 </a>
 <a href="https://www.consorzio-cini.it/index.php/en/labaiis-home" target="_blank">
-  <img align="left" src="../../images/logos/Logo_AIIS.jpg" style="height:140px" style="width:140px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
+  <img align="left" src="../images/logos/Logo_AIIS.jpg" style="height:140px" style="width:140px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
 </a>
 
 <br />&nbsp;
@@ -296,10 +296,10 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 ### Media Partner
 
 <a href="https://www.mdpi.com/journal/jsan" target="_blank">
-  <img align="left" src="../../images/logos/JSAN_partnership.png" style="height:200px" style="width:200px" alt="Journal of Sensor and Actuator Networks" title="Journal of Sensor and Actuator Networks" hspace="20"/>
+  <img align="left" src="../images/logos/JSAN_partnership.png" style="height:200px" style="width:200px" alt="Journal of Sensor and Actuator Networks" title="Journal of Sensor and Actuator Networks" hspace="20"/>
 </a>
 <a href="https://www.mdpi.com/journal/computers" target="_blank">
-  <img align="left" src="../../images/logos/Computers_partnership-01.png" style="height:200px" style="width:200px" alt="Computers — Open Access Journal" title="Computers — Open Access Journal" hspace="20"/>
+  <img align="left" src="../images/logos/Computers_partnership-01.png" style="height:200px" style="width:200px" alt="Computers — Open Access Journal" title="Computers — Open Access Journal" hspace="20"/>
 </a>
 
 </div>
