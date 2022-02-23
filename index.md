@@ -21,10 +21,10 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div markdown="1">
 
 <!--<div style="float:left; clear:right; width:50%">
-<img src="https://areaworkshop.github.io/AREA2022/images/logos/ecai_logo.png" style="width:250px"/>
+<img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:250px"/>
 </div>-->
 <div>
-<img src="https://areaworkshop.github.io/AREA2022/images/logos/ecai_logo.png" style="width:250px"/>
+<img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:250px"/>
 </div>
 
 </div>
@@ -318,7 +318,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <li>Camera Ready: 10th July 2020</li>
 <li>Workshop: 29th or 30th August or 4th or 5th September 2020</li>
   <br>
-*AREA 2020 will be held virtually. More information about the format and confirmation of the exact date of the workshop will follow as soon as it is confirmed with the ECAI workshop chairs.
+*AREA 2020 will be held virtually. More information about the format and confirmation of the exact date of the workshop will follow as soon as it is confirmed with the ijcai workshop chairs.
 </ul>
 
 ## Invited Speakers
