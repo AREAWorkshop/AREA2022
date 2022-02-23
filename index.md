@@ -35,14 +35,17 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div class="columns large-7" >
 <div markdown="1">
 
-# First Workshop on Agents and Robots for reliable Engineered Autonomy
+# Second Workshop on Agents and Robots for reliable Engineered Autonomy
 
 <p align="justify">
-Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios is largely adopted when logical distribution is needed, while still limited when physical distribution is necessary.
-In parallel, robots are no longer used only in industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue. Robots in these applications often benefit from (or require) some level (semi or full) of autonomy. Thus, multi-agent solutions can be exploited in robotic scenarios, considering their strong similarity both in terms of logical distribution and interaction among autonomous entities.<br>
+  Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios has largely been adopted in applications which are primarily software based, and remains limited in applications which involve physical interaction.
+  In parallel, robots are no longer used only in tightly constrained industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue, where the working environment is both dynamic and underspecified, and may involve interactions between multiple robots and humans.
 <br>
-The autonomous behaviour responsible for decision-making should (ideally) be verifiable since these systems are expensive to produce and are often deployed in safety-critical situations. Thus, verification and validation are important and necessary steps towards providing assurances about the reliability of autonomy in these systems.
-This workshop aims to bring together researchers from the autonomous agents, software engineering and the robotics communities, as combining knowledge coming from these two research areas may lead to innovative approaches that solve complex problems related with the verification and validation of autonomous robotic systems. Consequently, we encourage submissions that combine agents, robots, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is clear.
+  This presents significant challenges to traditional software engineering methodologies.  Increased autonomy is an important route to enabling robotic applications to function in these environments and autonomous agents and multi-agent systems are a promising approach to their engineering.  However, as autonomy and interaction increases, the engineering of reliable behaviour becomes more challenging (both in robotic applications and in more traditional autonomous agent settings) and so there is a need for researching new approaches to verification and validation that can be integrated in the engineering lifecycle of these systems.
+<br>
+  Autonomous behaviour responsible for decision-making in computational systems should (ideally) be verifiable particularly when these systems are expensive to produce or are deployed in safety-critical situations. Thus, verification and validation are important and necessary steps towards providing assurances about the reliability of autonomy in these systems.
+<br>
+  This workshop aims to bring together researchers from the autonomous agents and the robotics communities, since combining knowledge coming from these two research areas may lead to innovative approaches that solve complex problems related with the verification and validation of autonomous robotic systems. Consequently, we encourage submissions that combine agents, robots, software engineering, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is clear.
 </p>
 
 <!---
@@ -55,19 +58,21 @@ This workshop aims to bring together researchers from the autonomous agents, sof
 
 <ul>
   <li> Agent-based modular architectures applicable to robots </li>
-  <li> Agent oriented software engineering to model high-level control in robotic development</li>
-  <li> Agent programming languages and tools for developing robotic or intelligent autonomous systems</li>
-  <li> Coordination, interaction, and negotiation protocols for agents and robots</li>
-  <li> Distributed problem solving and automated planning in autonomous systems</li>
-  <li> Fault tolerance, health-management, and long-term autonomy</li>
-  <li> Real world applications of autonomous agents and multi-agent systems in robotics</li>
-  <li> Real-time multi-agent systems</li>
-  <li> Reliable software engineering of autonomy</li>
-  <li> Runtime verification of autonomous agents and robotic systems</li>
-  <li> Task and resource allocation in multi-robot systems</li>
-  <li> Verification and validation of autonomous systems</li>
-  <li> Testing and simulation tools and techniques for autonomous or robotic systems</li>
-  <li> Self healing entities and systems</li>
+   <li> Agent oriented software engineering to model high-level control in robotic development </li>
+   <li> Agent programming languages and tools for developing robotic or intelligent autonomous systems</li>
+   <li> Coordination, interaction, and negotiation protocols for agents and robots</li>
+   <li> Distributed problem solving and automated planning in autonomous systems</li>
+   <li> Fault tolerance, health-management, and long-term autonomy</li>
+   <li> Real world applications of autonomous agents and multi-agent systems in robotics</li>
+   <li> Real-time multi-agent systems</li>
+   <li> Reliable software engineering of autonomy</li>
+   <li> Runtime verification of autonomous agents and robotic systems</li>
+   <li> Task and resource allocation in multi-robot systems</li>
+   <li> Verification and validation of autonomous systems</li>
+   <li> Testing and simulation tools and techniques for autonomous or robotic systems</li>
+   <li> Engineering reliable interactions between humans and autonomous robots or agents</li>
+   <li> Verification and validation of human-robot interactions</li>
+   <li> Engineering transparent decision making for autonomous systems</li>
 </ul>
 
 <!---
@@ -101,14 +106,14 @@ Submissions are accepted in PDF format only. Each submission will receive at lea
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
-The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
+<!-- The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
-Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">https://easychair.org/my/conference?conf=area2020#</a>
+Submission link: <a href="https://easychair.org/my/conference?conf=area2021#">https://easychair.org/my/conference?conf=area2020#</a>
 <br><br>
 We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
-</p>
+</p> -->
 
-## Accepted Papers
+<!-- ## Accepted Papers
 
 <div style="text-align:justify;">
 <ul>
@@ -268,11 +273,11 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </td>
         </tr>
     </body>
-</table>
+</table> -->
 
 <div style="margin-top:10px;"></div>
 
-### Patronage
+<!-- ### Patronage
 
 <a href="https://rainhub.org.uk/" target="_blank">
   <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/RAIN.png" style="height:100px" style="width:100px" alt="RAIN Hub" title="RAIN Hub" hspace="10"/>
@@ -285,15 +290,15 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 </a>
 <a href="https://www.consorzio-cini.it/index.php/en/labaiis-home" target="_blank">
   <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/Logo_AIIS.jpg" style="height:140px" style="width:140px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
-</a>
+</a> -->
 
+<!-- <br />&nbsp;
 <br />&nbsp;
 <br />&nbsp;
 <br />&nbsp;
-<br />&nbsp;
-<br />&nbsp;
+<br />&nbsp; -->
 
-### Media Partner
+<!-- ### Media Partner
 
 <a href="https://www.mdpi.com/journal/jsan" target="_blank">
   <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/JSAN_partnership.png" style="height:200px" style="width:200px" alt="Journal of Sensor and Actuator Networks" title="Journal of Sensor and Actuator Networks" hspace="20"/>
@@ -306,41 +311,46 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 </div>
 
 <div class="columns large-5" >
-<div markdown="1">
+<div markdown="1"> -->
 
 
 ## Important Dates*
 
-<ul>
-<!--<li><b>Abstract Submission (optional): 3rd May 2020</b></li>-->
+Coming soon..
+
+<!-- <ul>
 <li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
 <li><s>Paper Notification: 10th June 2020</s></li>
 <li>Camera Ready: 10th July 2020</li>
 <li>Workshop: 29th or 30th August or 4th or 5th September 2020</li>
   <br>
 *AREA 2020 will be held virtually. More information about the format and confirmation of the exact date of the workshop will follow as soon as it is confirmed with the ijcai workshop chairs.
-</ul>
+</ul> -->
 
 ## Invited Speakers
 
-<ul>
+Coming soon..
+
+<!-- <ul>
 <li><a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>, Senior Research Fellow at ONERA (French Aerospace Lab) (France)</li>
   <li>to be announced</li>
-</ul>
+</ul> -->
 
 ## Organisers
 
 <ul>
-  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Liverpool (UK)</li>
-  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Liverpool (UK)</li>
-  <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
-  <li><a href="https://claudiomenghi.github.io/" target="_blank">Claudio Menghi</a>, University of Luxembourg (Luxembourg)</li>
-  <li>Daniela Briola, University of Milano-Bicocca (Italy)</li>
+  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Aberdeen (United Kingdom)</li>
+  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Genova (Italy)</li>
+  <li>Fabio Papacchini, , Lancaster University Leipz (Germany)</li>
+  <li><a href="https://askarpour.github.io/" target="_blank">Mehrnoosh Askarpour</a>, McMaster University (Canada)</li>
+  <li><a href="https://www.research.manchester.ac.uk/portal/louise.dennis.html" target="_blank">Louise A. Dennis</a>, The University of Manchester (United Kingdom)</li>
 </ul>
 
 ## Program Committee
 
-<ul>
+Coming soon..
+
+<!-- <ul>
 <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
 <li>Mehrnoosh Askarpour, Politecnico di Milano (Italy)</li>
 <li>Amel Bennaceur, The Open University (UK)</li>
@@ -369,14 +379,11 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
 <li>Lavindra da Silva, University of Cambridge (UK)</li>
 <li>Christos Tsigkanos, Technical University of Vienna (Austria)</li>
-
-</ul>
+</ul> -->
 
 ## Contact Information
 
-For more information contact us at area2020.workshop@gmail.com
-
-
+For more information contact us at area.workshop.info@gmail.com
 
 </div>
 </div>
