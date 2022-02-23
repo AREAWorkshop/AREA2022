@@ -306,10 +306,11 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <a href="https://www.mdpi.com/journal/computers" target="_blank">
   <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/Computers_partnership-01.png" style="height:200px" style="width:200px" alt="Computers — Open Access Journal" title="Computers — Open Access Journal" hspace="20"/>
 </a>
+-->
 
 </div>
 </div>
--->
+
 <div class="columns large-5" >
 <div markdown="1">
 
