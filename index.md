@@ -309,9 +309,9 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 
 </div>
 </div>
-
+-->
 <div class="columns large-5" >
-<div markdown="1"> -->
+<div markdown="1">
 
 
 ## Important Dates*
