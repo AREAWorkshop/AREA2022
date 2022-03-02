@@ -44,8 +44,6 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <br>
   This presents significant challenges to traditional software engineering methodologies.  Increased autonomy is an important route to enabling robotic applications to function in these environments and autonomous agents and multi-agent systems are a promising approach to their engineering.  However, as autonomy and interaction increases, the engineering of reliable behaviour becomes more challenging (both in robotic applications and in more traditional autonomous agent settings) and so there is a need for researching new approaches to verification and validation that can be integrated in the engineering lifecycle of these systems.<br>
 <br>
-  Autonomous behaviour responsible for decision-making in computational systems should (ideally) be verifiable particularly when these systems are expensive to produce or are deployed in safety-critical situations. Thus, verification and validation are important and necessary steps towards providing assurances about the reliability of autonomy in these systems.<br>
-<br>
   This workshop aims to bring together researchers from the autonomous agents and the robotics communities, since combining knowledge coming from these two research areas may lead to innovative approaches that solve complex problems related with the verification and validation of autonomous robotic systems. Consequently, we encourage submissions that combine agents, robots, software engineering, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is clear.
 </p>
 
