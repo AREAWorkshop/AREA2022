@@ -30,7 +30,9 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 </div>
 </div>
 
-
+<br />&nbsp;
+<br />&nbsp;
+<br />&nbsp;
 
 # Second Workshop on Agents and Robots for reliable Engineered Autonomy
 
