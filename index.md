@@ -21,10 +21,10 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div markdown="1">
 
 <!--<div style="float:left; clear:right; width:50%">
-<img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:200px"/>
+<img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/>
 </div>-->
 <div>
-<img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:200px"/>
+<img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/>
 </div>
 
 </div>
