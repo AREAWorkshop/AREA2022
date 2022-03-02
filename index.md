@@ -41,11 +41,11 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 
 <p align="justify">
   Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios has largely been adopted in applications which are primarily software based, and remains limited in applications which involve physical interaction.
-  In parallel, robots are no longer used only in tightly constrained industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue, where the working environment is both dynamic and underspecified, and may involve interactions between multiple robots and humans.
+  In parallel, robots are no longer used only in tightly constrained industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue, where the working environment is both dynamic and underspecified, and may involve interactions between multiple robots and humans.<br>
 <br>
-  This presents significant challenges to traditional software engineering methodologies.  Increased autonomy is an important route to enabling robotic applications to function in these environments and autonomous agents and multi-agent systems are a promising approach to their engineering.  However, as autonomy and interaction increases, the engineering of reliable behaviour becomes more challenging (both in robotic applications and in more traditional autonomous agent settings) and so there is a need for researching new approaches to verification and validation that can be integrated in the engineering lifecycle of these systems.
+  This presents significant challenges to traditional software engineering methodologies.  Increased autonomy is an important route to enabling robotic applications to function in these environments and autonomous agents and multi-agent systems are a promising approach to their engineering.  However, as autonomy and interaction increases, the engineering of reliable behaviour becomes more challenging (both in robotic applications and in more traditional autonomous agent settings) and so there is a need for researching new approaches to verification and validation that can be integrated in the engineering lifecycle of these systems.<br>
 <br>
-  Autonomous behaviour responsible for decision-making in computational systems should (ideally) be verifiable particularly when these systems are expensive to produce or are deployed in safety-critical situations. Thus, verification and validation are important and necessary steps towards providing assurances about the reliability of autonomy in these systems.
+  Autonomous behaviour responsible for decision-making in computational systems should (ideally) be verifiable particularly when these systems are expensive to produce or are deployed in safety-critical situations. Thus, verification and validation are important and necessary steps towards providing assurances about the reliability of autonomy in these systems.<br>
 <br>
   This workshop aims to bring together researchers from the autonomous agents and the robotics communities, since combining knowledge coming from these two research areas may lead to innovative approaches that solve complex problems related with the verification and validation of autonomous robotic systems. Consequently, we encourage submissions that combine agents, robots, software engineering, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is clear.
 </p>
@@ -77,13 +77,13 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
    <li> Engineering transparent decision making for autonomous systems</li>
 </ul>
 
-<!---
+
 ## Workshop Format
 
 <p align="justify">
-This event is planned as a one-day workshop. Our aim is to have three reviews per paper. At least one of the authors of an accepted paper should attend the workshop to present their work. Depending on the number of submissions, we would like to have a discussion panel at the end. We also expect to have at least one invited talk, focused on autonomous decision-making with agents applied to robotic systems.
+This event is planned as a half-day workshop (0.5 day), with a duration of approximately 5 hours. Depending on the number of submissions, we may organise a discussion panel at the end. We also expect to have at least two invited talks.
 </p>
---->
+-
 
 ## Submission Instructions
 
@@ -103,17 +103,16 @@ Participants are invited to submit either:
 </ul>
 </p>
 <p align="justify">
-Regular papers must not exceed fifteen (15) pages single column and short papers must not exceed seven (7) pages single column, excluding references and appendices.
+Regular papers must not exceed fifteen (12) pages single column and short papers must not exceed seven (6) pages single column, excluding references and appendices.
 Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews.
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
-<!-- The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
+The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
-Submission link: <a href="https://easychair.org/my/conference?conf=area2021#">https://easychair.org/my/conference?conf=area2020#</a>
+Submission link: <a href="https://easychair.org/my/conference?conf=area2022#">https://easychair.org/my/conference?conf=area2022#</a>
 <br><br>
-We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
--->
+We will evaluate applying for a special issue on a Journal (to be selected later) where revised selected and extended papers will be published.
 </p>
 
 <!-- ## Accepted Papers
@@ -320,7 +319,14 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 
 ## Important Dates
 
-Coming soon...
+<ul>
+<li><b>Abstract Submission (optional): 29th April 2022</b></li>
+<li><b>Paper Submission Deadline: 6th May 2022 (AoE, UTC-12)</b></li>
+<li>Paper Notification: 3rd June 2022</li>
+<li>Camera Ready: 17th June 2022</li>
+<li>Workshop: 23rd-25th July 2022 (EXACT DAY TO BE CONFIRMED)</li>
+</ul>
+
 
 <!-- <ul>
 <li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
