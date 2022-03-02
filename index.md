@@ -101,7 +101,8 @@ Participants are invited to submit either:
 </p>
 <p align="justify">
 Regular papers must not exceed fifteen (12) pages single column and short papers must not exceed seven (6) pages single column, excluding references and appendices.
-Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews.
+All submissions must be in English and in PDF format. Each submission will receive at least three, single-blind reviews.
+  All papers should be original and not be submitted elsewhere. The review process is single blind: submissions should not be blind, reviewers will be.
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
