@@ -32,10 +32,10 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 
 
 
+# Second Workshop on Agents and Robots for reliable Engineered Autonomy
+
 <div class="columns large-7" >
 <div markdown="1">
-
-# Second Workshop on Agents and Robots for reliable Engineered Autonomy
 
 <p align="justify">
   Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios has largely been adopted in applications which are primarily software based, and remains limited in applications which involve physical interaction.
@@ -316,9 +316,9 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <div markdown="1">
 
 
-## Important Dates*
+## Important Dates
 
-Coming soon..
+Coming soon...
 
 <!-- <ul>
 <li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
@@ -331,7 +331,7 @@ Coming soon..
 
 ## Invited Speakers
 
-Coming soon..
+Coming soon...
 
 <!-- <ul>
 <li><a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>, Senior Research Fellow at ONERA (French Aerospace Lab) (France)</li>
@@ -350,7 +350,7 @@ Coming soon..
 
 ## Program Committee
 
-Coming soon..
+Coming soon...
 
 <!-- <ul>
 <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
