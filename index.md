@@ -80,7 +80,6 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <p align="justify">
 This event is planned as a half-day workshop (0.5 day), with a duration of approximately 5 hours. Depending on the number of submissions, we may organise a discussion panel at the end. We also expect to have at least two invited talks.
 </p>
--
 
 ## Submission Instructions
 
