@@ -99,7 +99,7 @@ Participants are invited to submit either:
 </ul>
 </p>
 <p align="justify">
-Regular papers must not exceed fifteen (12) pages single column and short papers must not exceed seven (6) pages single column, excluding references and appendices.
+Regular papers must not exceed twelve (12) pages single column and short papers must not exceed six (6) pages single column, excluding references and appendices.
 All submissions must be in English and in PDF format. Each submission will receive at least three, single-blind reviews.
   All papers should be original and not be submitted elsewhere. The review process is single blind: submissions should not be blind, reviewers will be.
 <br><br>
