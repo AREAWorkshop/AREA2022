@@ -107,7 +107,7 @@ All submissions must be in English and in PDF format. Each submission will recei
 <br><br>
 The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
-Submission link: <a href="https://easychair.org/my/conference?conf=area2022#">https://easychair.org/my/conference?conf=area2022#</a>
+Submission link: <a href="https://easychair.org/my/conference?conf=area22">https://easychair.org/my/conference?conf=area2022#</a>
 <br><br>
 We will evaluate applying for a special issue on a Journal (to be selected later) where revised selected and extended papers will be published.
 </p>
