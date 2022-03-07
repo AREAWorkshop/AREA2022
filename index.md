@@ -39,12 +39,11 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div markdown="1">
 
 <p align="justify">
-  Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios has largely been adopted in applications which are primarily software based, and remains limited in applications which involve physical interaction.
-  In parallel, robots are no longer used only in tightly constrained industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue, where the working environment is both dynamic and underspecified, and may involve interactions between multiple robots and humans.<br>
+Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint. Nonetheless, the application of agents in real-world scenarios has largely been adopted in applications which are primarily software based, and remains limited in applications which involve physical interaction. In parallel, robots are no longer used only in tightly constrained industrial applications but are instead being applied in an increasing number of domains, ranging from robotic assistants to search and rescue, where the working environment is both dynamic and underspecified, and may involve interactions between multiple robots and humans.<br>
 <br>
-  This presents significant challenges to traditional software engineering methodologies.  Increased autonomy is an important route to enabling robotic applications to function in these environments and autonomous agents and multi-agent systems are a promising approach to their engineering.  However, as autonomy and interaction increases, the engineering of reliable behaviour becomes more challenging (both in robotic applications and in more traditional autonomous agent settings) and so there is a need for researching new approaches to verification and validation that can be integrated in the engineering lifecycle of these systems.<br>
+  This presents significant challenges to traditional software engineering methodologies. Increased autonomy is an important route to enabling robotic applications to function in these environments, and autonomous agents and multi-agent systems are a promising approach to their engineering. As autonomy and interaction increases, the engineering of reliable behaviour becomes more challenging (both in robotic applications and in more traditional autonomous agent settings), and so there is a need for research into new approaches to verification and validation that can be integrated in the engineering lifecycle of these systems.<br>
 <br>
-  This workshop aims to bring together researchers from the autonomous agents and the robotics communities, since combining knowledge coming from these two research areas may lead to innovative approaches that solve complex problems related with the verification and validation of autonomous robotic systems. Consequently, we encourage submissions that combine agents, robots, software engineering, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is clear.
+  This workshop aims to bring together researchers from the autonomous agents and the robotics communities, since combining knowledge from these two research areas may lead to innovative approaches that solve complex problems related to the verification and validation of autonomous robotic systems. Therefore, we encourage submissions that combine agents, robots, software engineering, and verification, but we also welcome papers focused on one of these areas, as long as their applicability to the other areas is explicit.
 </p>
 
 <!---
@@ -78,7 +77,7 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 ## Workshop Format
 
 <p align="justify">
-This event is planned as a half-day workshop, with a duration of approximately 5 hours. Depending on the number of submissions, we may organise a discussion panel at the end. We also expect to have at least two invited talks.
+This event is planned as a half-day workshop taking approximately 5 hours. Depending on the number of submissions, we may organise a discussion panel at the end. We also expect to have at least two invited talks (to be announced later).
 </p>
 
 ## Submission Instructions
@@ -88,28 +87,23 @@ Participants are invited to submit either:
 <ul>
   <li><b>a full length research paper</b>
     &mdash;
-    a technical paper for describing technically sound, innovative ideas that can advance the engineering/reliability of agents and robots;
-    an application/case study paper, with emphasis on robotic applications where agents techniques have been applied;
-    a survey paper on one of the topics of interest.</li>
+    a technical paper describing technically sound, innovative ideas that can advance the engineering/reliability of agents and robots; an application/case study paper, with emphasis on robotic applications where agents techniques have been applied; a survey paper on one of the topics of interest.</li>
   <li><b>a short paper</b>
     &mdash;
-    a position paper describing relevant questions and issues that the participants feel should be addressed;
-    a demo paper describing a demonstration of an agent/robotic application, system or tool;
-    a new idea in the field which is not ready for publication as regular paper.</li>
+    a position paper describing relevant questions and issues that participants feel should be addressed; a demo paper describing a demonstration of an agent/robotic application, system or tool; a new idea in the field which is not ready for publication as a regular paper.</li>
 </ul>
 </p>
 <p align="justify">
-Regular papers must not exceed twelve (12) pages single column and short papers must not exceed six (6) pages single column, excluding references and appendices.
-All submissions must be in English and in PDF format. Each submission will receive at least three, single-blind reviews.
-  All papers should be original and not be submitted elsewhere. The review process is single blind: submissions should not be blind, reviewers will be.
+Full-length research papers must not exceed twelve (12) pages single column, and short papers must not exceed six (6) pages single column, excluding references and appendices. All submissions must be in English and PDF format.
+Each submission will receive at least three single-blind reviews. All papers should be original and not be submitted elsewhere. The review process is single-blind: submissions should not be blind, reviewers will be.
 <br><br>
-<b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
+<b>In case of acceptance, at least one of the authors should attend the workshop to present their work.</b>
 <br><br>
 The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
-Submission link: <a href="https://easychair.org/my/conference?conf=area22">https://easychair.org/my/conference?conf=area2022#</a>
+Submission link: <a href="https://easychair.org/my/conference?conf=area22">https://easychair.org/my/conference?conf=area22</a>
 <br><br>
-We will evaluate applying for a special issue on a Journal (to be selected later) where revised selected and extended papers will be published.
+After the workshop, we will consider applying for a journal special issue (journal to be selected later), where revised selected and extended papers can be published.
 </p>
 
 <!-- ## Accepted Papers
