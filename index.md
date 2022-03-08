@@ -349,38 +349,32 @@ Coming soon...
 
 ## Program Committee
 
-Coming soon...
-
-<!-- <ul>
+<ul>
+  <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
 <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
-<li>Mehrnoosh Askarpour, Politecnico di Milano (Italy)</li>
 <li>Amel Bennaceur, The Open University (UK)</li>
 <li>Olivier Boissier, Mines Saint-Étienne (France)</li>
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
-<li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
-<li>Michael Fisher, University of Liverpool (UK)</li>
-<li>Meng Guo, Bosch Center for Artificial Intelligence (Germany)</li>
-<li>Nico Hochgeschwender, Hochschule Bonn-Rhein-Sieg (Germany)</li>
+  <li>Daniela Briola, University of Milano Bicocca (Italy)</li>
 <li>Jomi F. Hübner, UFSC (Brazil)</li>
 <li>Bruno Lacerda, University of Oxford (UK)</li>
-<li>Brian Logan, University of Nottingham (UK)</li>
-<li>Leonardo Mariani, University of Milano Bicocca (Italy)</li>
+  <li>Sven Linker, Lancaster University Leipzig (Germany)</li>
+  <li>Livia Lestingi, Politecnico di Milano (Italy)</li>
+<li>Brian Logan, University of Aberdeen (UK)</li>
+  <li>Matt Luckcuck, Maynooth University (Ireland)</li>
+  <li>Vadim Malvone, Telecom Paris (France)</li>
 <li>Viviana Mascardi, Genoa University (Italy)</li>
-<li>Ilaria Matteucci, Istituto di Informatica e Telematica, CNR (Italy)</li>
-<li>Ettore Merlo, Ecole Polytechnique of Montreal (Canada)</li>
-<li>Alexandre de Oliverira Zamberlan, UFN (Brazil)</li>
+<li>Felipe Meneguzzi, University of Aberdeen (UK)</li>
+  <li>Claudio Menghi, McMaster University (Canada)</li>
 <li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
-<li>John-Paul Ore, Department of Computer Science at NC State University (US)</li>
-<li>Liliana Pasquale, University College Dublin and  Lero - the Irish Software Research Centre (Ireland)</li>
 <li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>
-<li>Patrizio Pelliccione, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
+  <li>Terry Payne, University of Liverpool (UK)</li>
+  <li>Mohammad Mehdi Pourhashem, University of Science and Technology of Mazandaran (Iran)</li>
 <li>Pedro Ribeiro, University of York (UK)</li>
 <li>Alessandro Ricci, University of Bologna (Italy)</li>
-<li>Ana Paula Rocha, University of Porto (Portugal)</li>
-<li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
-<li>Lavindra da Silva, University of Cambridge (UK)</li>
+  <li>Matteo Rossi, Politecnico di Milano (Italy)</li>
 <li>Christos Tsigkanos, Technical University of Vienna (Austria)</li>
-</ul> -->
+</ul>
 
 ## Contact Information
 
