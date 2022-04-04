@@ -97,7 +97,7 @@ Participants are invited to submit either:
 Full-length research papers must not exceed twelve (12) pages single column, and short papers must not exceed six (6) pages single column, excluding references and appendices. All submissions must be in English and PDF format.
 Each submission will receive at least three single-blind reviews. All papers should be original and not be submitted elsewhere. The review process is single-blind: submissions should not be blind, reviewers will be.
 <br><br>
-<b>In case of acceptance, at least one of the authors should attend the workshop to present their work.</b>
+<b>The AREA workshop is going to be an in-person event (following IJCAI-ECAI 2022 guidelines).</b> At least one author of each accepted paper has to register to the Workshop (via IJCAI-ECAI 2022 website, fees will be made available soon). Authors that cannot come in person to the event will be allowed to present their contribution online as long as they have registered for the workshop (no discount fees will be available, IJCAI-ECAI 2022 is entirely physical, we are only aiming to give the option to people that want to participate but will not be able to attend in person).
 <br><br>
 The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
