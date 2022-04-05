@@ -360,7 +360,9 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
   <li>Daniela Briola, University of Milano Bicocca (Italy)</li>
 <li>Jomi F. Hübner, UFSC (Brazil)</li>
+  <li>Erez Karpas, Technion – Israel Institute of Technology (Israel)</li>
 <li>Bruno Lacerda, University of Oxford (UK)</li>
+  <li>Charles Lesire, ONERA (French Aerospace Lab) (France)</li>
   <li>Sven Linker, Lancaster University Leipzig (Germany)</li>
   <li>Livia Lestingi, Politecnico di Milano (Italy)</li>
 <li>Brian Logan, University of Aberdeen (UK)</li>
