@@ -331,8 +331,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 ## Invited Speakers
 
 <ul>
-  <li><a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>, The University of York, UK</li>
-  <li><a href="https://alechina-logan.net/brian/">Brian Logan</a>, University of Aberdeen, UK</li>
+  <li><a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>, Professor at the University of York, UK</li>
+  <li><a href="https://alechina-logan.net/brian/">Brian Logan</a>, Professor at the University of Aberdeen, UK</li>
 </ul>
 
 <!-- <ul>
