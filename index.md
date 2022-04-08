@@ -285,21 +285,20 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
   <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/Logo_AIIS.jpg" style="height:140px" style="width:140px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
 </a> -->
 
-<!-- <br />&nbsp;
+ <br />&nbsp;
 <br />&nbsp;
 <br />&nbsp;
 <br />&nbsp;
-<br />&nbsp; -->
+<br />&nbsp; 
 
-<!-- ### Media Partner
+### Media Partner
 
-<a href="https://www.mdpi.com/journal/jsan" target="_blank">
-  <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/JSAN_partnership.png" style="height:200px" style="width:200px" alt="Journal of Sensor and Actuator Networks" title="Journal of Sensor and Actuator Networks" hspace="20"/>
+<a href="https://www.mdpi.com/journal/robotics" target="_blank">
+  <img align="left" src="thumbnail_MDPI Robotics partnership-logo.png" style="height:200px" style="width:200px" alt="Robotics — Open Access Journal" title="Robotics — Open Access Journal" hspace="20"/>
 </a>
 <a href="https://www.mdpi.com/journal/computers" target="_blank">
   <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/Computers_partnership-01.png" style="height:200px" style="width:200px" alt="Computers — Open Access Journal" title="Computers — Open Access Journal" hspace="20"/>
 </a>
--->
 
 </div>
 </div>
