@@ -291,10 +291,10 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <br />&nbsp;
 <br />&nbsp; 
 
-### Media Partner
+### Media Partners
 
 <a href="https://www.mdpi.com/journal/robotics" target="_blank">
-  <img align="left" src="thumbnail_MDPI Robotics partnership-logo.png" style="height:200px" style="width:200px" alt="Robotics — Open Access Journal" title="Robotics — Open Access Journal" hspace="20"/>
+  <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/MDPI_Robotics_partnership-logo.png" style="height:200px" style="width:200px" alt="Robotics — Open Access Journal" title="Robotics — Open Access Journal" hspace="20"/>
 </a>
 <a href="https://www.mdpi.com/journal/computers" target="_blank">
   <img align="left" src="https://areaworkshop.github.io/AREA2022/images/logos/Computers_partnership-01.png" style="height:200px" style="width:200px" alt="Computers — Open Access Journal" title="Computers — Open Access Journal" hspace="20"/>
