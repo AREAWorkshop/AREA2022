@@ -24,7 +24,7 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/>
 </div>-->
 <div>
-<img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/>
+<a href="https://ijcai-22.org/"><img src="https://areaworkshop.github.io/AREA2022/images/logos/ijcai_logo.png" style="width:100px"/></a>
 </div>
 
 </div>
