@@ -311,7 +311,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 
 <ul>
 <li><b>Abstract Submission (optional): 29th April 2022</b></li>
-<li><b>Paper Submission Deadline: 6th May 2022 (AoE, UTC-12)</b></li>
+  <li><b>Paper Submission Deadline: <strike>6th May 2022 (AoE, UTC-12)</strike> 13th May 2022 (AoE)</b></li>
 <li>Paper Notification: 3rd June 2022</li>
 <li>Camera Ready: 17th June 2022</li>
 <li>Workshop: 23rd-25th July 2022 (EXACT DAY TO BE CONFIRMED)</li>
