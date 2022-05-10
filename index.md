@@ -316,6 +316,9 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <li>Camera Ready: 17th June 2022</li>
 <li>Workshop: Morning of the 24th July 2022</li>
 </ul>
+  
+## Registration
+Please register at <a href="https://askarpour.github.io/" target="_blank"/>, and make sure that you select and add W06 under Select Workshop in WORKSHOPS & TUTORIALS
 
 
 <!-- <ul>
