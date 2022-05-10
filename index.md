@@ -318,7 +318,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 </ul>
   
 ## Registration
-  Please register at <a href="https://ijcai-22.org/register/" target="_blank"> https://ijcai-22.org/register/ </a>, and make sure that you select and add W06 under Select Workshop in WORKSHOPS & TUTORIALS
+  Please register at <a href="https://ijcai-22.org/register/" target="_blank">https://ijcai-22.org/register/</a>, and make sure that you select and add W06 under Select Workshop in WORKSHOPS & TUTORIALS
 
 
 <!-- <ul>
