@@ -77,7 +77,7 @@ Autonomous agents is a well-established area that has been researched for decade
 ## Workshop Format
 
 <p align="justify">
-This event is planned as a half-day workshop taking approximately 5 hours. Depending on the number of submissions, we may organise a discussion panel at the end. We also expect to have at least two invited talks (to be announced later).
+This event is planned as a half-day workshop taking approximately 5 hours. Depending on the number of submissions, we may organise a discussion panel at the end. We also have two invited talks.
 </p>
 
 ## Submission Instructions
