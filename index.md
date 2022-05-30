@@ -149,7 +149,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>09:10</th>
-            <td colspan="4" class="stage-earth">Invited Talk: <a href="https://alechina-logan.net/brian/">Brian Logan</a> [Chair: TBA],br/>
+            <td colspan="4" class="stage-earth">Invited Talk: <a href="https://alechina-logan.net/brian/">Brian Logan</a> [Chair: TBA]<br/>
               <span> <b>Title:</b> <i>Synthesis of Fail-Safe Behaviours</i>
               </span><br/>
               <span>
@@ -190,7 +190,7 @@ Reactive synthesis techniques have been proposed  as a way to automate the produ
         </tr>
         <tr>
             <th>10:50</th>
-            <td colspan="4" class="stage-earth">Invited Talk: <a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>[Chair: TBA],br/>
+            <td colspan="4" class="stage-earth">Invited Talk: <a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>[Chair: TBA]<br/>
               <span> <b>Title:</b> <i>RoboWorld: assumption language for robotic systems</i>
               </span><br/>
               <span>
