@@ -201,16 +201,6 @@ He has also worked on a wide range of artificial intelligence research problems,
               <button style="color:blue;" onclick="myFunction1()" id="myBtn1">Read more</button>
               </span>
             </td>
-          
-          
-            <td colspan="4" class="stage-earth">Invited Talk: <a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>[Chair: TBA]<br/>
-              <span> <b>Title:</b> <i>RoboWorld: assumption language for robotic systems</i>
-              </span><br/>
-              <span>
-              <b>Abstract:</b>
-Robots affect and are affected by the environment.  Operational requirements often restrict the conditions in which a robot can be used, and many of the expected and desirable properties of a robotic system depend on properties of its environment.  Defining a complete model of the environment is not possible, in general, but it is possible to capture assumptions about the environment.  We will present a controlled natural language called RoboWorld that can be used to define (a) the operational requirements of a robot, and (b) how the robot interacts with its environment. RoboWorld has a hybrid process-algebraic semantics.  RoboWorld is part of the RoboStar framework of domain-specific languages, and plays a central role in proof, simulation, and testing of robotic systems. 
-              </span>
-            </td>
         </tr>
         <tr>
             <th>11:20</th>
