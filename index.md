@@ -150,118 +150,88 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <table>
     <body>
         <tr>
-            <th>13:00</th>
+            <th>09:00</th>
             <td colspan="4" class="stage-saturn">Welcome</td>
         </tr>
         <tr>
-            <th>13:10</th>
-            <td colspan="4" class="stage-earth">Keynote: <a href="https://sites.google.com/view/charles-lesire"> Charles Lesire </a>
+            <th>09:10</th>
+            <td colspan="4" class="stage-earth">Keynote: <a href="https://alechina-logan.net/brian/">Brian Logan</a>
               <span> Abstract: TBA
               </span>
             </td>
         </tr>
         <tr>
-            <th>13:40</th>
+            <th>09:40</th>
             <td colspan="4" class="stage-venus">
             Question and Answer: Verification
             <span>
-              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
-              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
+              Paper #1
             </span>
             <br/>
             <span>
-              Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi.
-              <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
+              Paper #2
             </span>
             </td>
         </tr>
         <tr>
-            <th>14:00</th>
+            <th>10:10</th>
             <td colspan="4" class="stage-mars">
             Question and Answer: Reliability
             <span>
-              Victoria Edwards, Loy McGuire and Signe Redfield.
-              <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
+              Paper #3
             </span>
             <br/>
             <span>
-              Connor Basich, Justin Svegliato and Shlomo Zilberstein.
-              <i>Improving Competence for Reliable Autonomy</i>.
+              Paper #4
             </span>
             </td>
         </tr>
         <tr>
-            <th>14:20</th>
+            <th>10:40</th>
             <td colspan="4" class="stage-venus">
             Question and Answer: Engineering
             <span>
-              Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
-              <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
+              Paper #5
             </span>
             <br/>
             <span>
-              Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
-              <i>Toward Campus Mail Delivery Using BDI</i>.
+              Paper #6
             </span>
             </td>
         </tr>
        <tr>
-            <th>14:40</th>
+            <th>10:40</th>
             <td colspan="4" class="stage-mercury">Break</td>
         </tr>
         <tr>
-            <th>14:50</th>
-            <td colspan="4" class="stage-earth">Keynote 2
-              <span>TBA
+            <th>10:50</th>
+            <td colspan="4" class="stage-earth">Keynote: <a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>
+              <span> Abstract: TBA
               </span>
             </td>
         </tr>
         <tr>
-            <th>15:20</th>
+            <th>11:20</th>
             <td colspan="4" class="stage-mars">
             Question and Answer: Learning
             <span>
-              Simón C. Smith and Subramanian Ramamoorthy.
-              <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
+              Paper #7
             </span>
             <br/>
             <span>
-              Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen.
-              <i>Testing the Robustness of AutoML Systems</i>.
+              Paper #8
             </span>
             </td>
         </tr>
         <tr>
-            <th>15:40</th>
-            <td colspan="4" class="stage-venus">
-            Question and Answer: Simulation
-            <span>
-              Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
-              <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
-            </span>
-            <br/>
-            <span>
-              	Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari	.
-              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
-            </span>
-            </td>
-        </tr>
-        <tr>
-            <th>16:00</th>
-            <td colspan="4" class="stage-earth">Keynote 3
-              <span>TBA
-              </span>
-            </td>
-        </tr>
-        <tr>
-            <th>16:30</th>
+            <th>11:50</th>
             <td colspan="4" class="stage-jupiter">Discussion panel
               <span> TBA
               </span>
             </td>
         </tr>
         <tr>
-            <th>17:00</th>
+            <th>12:30</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
