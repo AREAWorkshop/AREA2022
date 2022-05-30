@@ -149,12 +149,14 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>09:10</th>
-            <td colspan="4" class="stage-earth">Invited Talk: <a href="https://alechina-logan.net/brian/">Brian Logan</a> [Chair: TBA]<br/>
-              <span> <b>Title:</b> <i>Synthesis of Fail-Safe Behaviours</i>
-              </span><br/>
-              <span>
-              <b>Abstract:</b>
-Reactive synthesis techniques have been proposed  as a way to automate the production of software for autonomous cyber-physical systems. Such techniques have the advantage that the resulting software is guaranteed to realise a given target behaviour if the behaviour and models of the resources provided as input are themselves correct. However, if the target specifies an unsafe behaviour, or the resource operations are unsafe, incorrectly programmed or the resource models fail to anticipate some failure modes, then synthesis may result in a “correct", but unsafe controller. In this talk, I present an approach to the synthesis of fail-safe controllers that orchestrate the activities of a set of resources to realise a target behaviour, and in addition guarantee the resulting behaviour conforms to a fail-safe specification defining what should happen if an abnormal event occurs. 
+            <td colspan="4" class="stage-earth">Invited talk: <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: TBA]</i>
+              <span> 
+                  <b>Title:</b> <i>Synthesis of Fail-Safe Behaviours</i> <br/>
+                  <b>Abstract:</b> Reactive synthesis techniques have been proposed  as a way to automate the production of software for autonomous cyber-physical systems. Such techniques have the advantage that the resulting software is guaranteed to realise a given target behaviour if the behaviour and models of the resources provided as input are themselves correct. However, if the target specifies an unsafe behaviour, or the resource operations are unsafe, incorrectly programmed or the resource models fail to anticipate some failure modes, then synthesis may result in a “correct", but unsafe controller. In this talk, I present an approach to the synthesis of fail-safe controllers that orchestrate the activities of a set of resources to realise a target behaviour, and in addition guarantee the resulting behaviour conforms to a fail-safe specification defining what should happen if an abnormal event occurs.<br/>
+                  <b>Short Bio:</b> Prof. Brian Logan is a Professor of Computing Science at the University of Aberdeen and visiting Associate Professor at Utrecht University. He also have an honorary position (Special Professor), at the University of Nottingham. His research interests span the specification, design and implementation of autonomous intelligent systems. A key theme of his work is 'safe AI', specifically ensuring that autonomous intelligent systems function safely and in accordance with their design objectives. The current focus of his research is ensuring the safe behaviour of autonomous systems that adapt or learn at run time.
+He has also worked on a wide range of artificial intelligence research problems, including belief revision, reasoning, search and in agent-based simulation.  
+                 </span>
+              <button style="color:blue;" onclick="myFunction1()" id="myBtn1">Read more</button>
               </span>
             </td>
         </tr>
@@ -190,6 +192,17 @@ Reactive synthesis techniques have been proposed  as a way to automate the produ
         </tr>
         <tr>
             <th>10:50</th>
+          <td colspan="4" class="stage-earth">Invited talk: <a href="https://www-users.cs.york.ac.uk/~alcc/" target="_blank">Ana Cavalcanti</a> <i style="font-size:12px">[Chair: TBA]</i>
+              <span> 
+                  <b>Title:</b> <i>RoboWorld: assumption language for robotic systems</i> <br/>
+                  <b>Abstract:</b> Robots affect and are affected by the environment.  Operational requirements often restrict the conditions in which a robot can be used, and many of the expected and desirable properties of a robotic system depend on properties of its environment.  Defining a complete model of the environment is not possible, in general, but it is possible to capture assumptions about the environment.  We will present a controlled natural language called RoboWorld that can be used to define (a) the operational requirements of a robot, and (b) how the robot interacts with its environment. RoboWorld has a hybrid process-algebraic semantics.  RoboWorld is part of the RoboStar framework of domain-specific languages, and plays a central role in proof, simulation, and testing of robotic systems.<br/>
+                  <b>Short Bio:</b> Prof. Ana Cavalcanti's focus of her career has always been research. Her first publication came as an undergraduate student in 1987, when she got a prize from the Brazilian Computer Society. In Brazil, she pursued an MSc by Research (typically taken full time over two to three years); it was necessary to obtain funding for a PhD. At that level, she was already interacting with the international community, via the publication of book chapters and workshop papers. After the PhD in Oxford, she got a permanent Lectureship in the top Brazilian research group in formal methods. In those five years, she established herself as an independent researcher. In that position, she had a significant number of research students under her supervision. She published well in top national and international venues. In the evaluation of the Brazilian Research Council, she had the best possible classification for her level of experience. At York, she seeks to validate theories using real-world problems. Her main scientific achievements have been on the design and justification of sound refinement-based program development and verification techniques. She has covered theoretical and practical integration with industry-strength technology: concurrency, object-orientation, and testing, for instance.
+                 </span>
+              <button style="color:blue;" onclick="myFunction1()" id="myBtn1">Read more</button>
+              </span>
+            </td>
+          
+          
             <td colspan="4" class="stage-earth">Invited Talk: <a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>[Chair: TBA]<br/>
               <span> <b>Title:</b> <i>RoboWorld: assumption language for robotic systems</i>
               </span><br/>
@@ -361,3 +374,40 @@ For more information contact us at <a href="mailto:area.workshop.info@gmail.com"
 
 </div>
 </div>
+
+<script>
+function myFunction1() {
+  var dots = document.getElementById("dots1");
+  var moreText = document.getElementById("more1");
+  var btnText = document.getElementById("myBtn1");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+<script>
+function myFunction2() {
+  var dots2 = document.getElementById("dots2");
+  var moreText2 = document.getElementById("more2");
+  var btnText2 = document.getElementById("myBtn2");
+
+  if (dots2.style.display === "none") {
+    dots2.style.display = "inline";
+    btnText2.innerHTML = "Read more"; 
+    moreText2.style.display = "none";
+  } else {
+    dots2.style.display = "none";
+    btnText2.innerHTML = "Read less"; 
+    moreText2.style.display = "inline";
+  }
+}
+</script>
+
