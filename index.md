@@ -106,7 +106,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area22">https
 After the workshop, we will consider applying for a journal special issue (journal to be selected later), where revised selected and extended papers can be published.
 </p>
 
-<!-- ## Accepted Papers
+## Accepted Papers
 
 <div style="text-align:justify;">
 <ul>
@@ -137,7 +137,7 @@ After the workshop, we will consider applying for a journal special issue (journ
 </ul>
 </div>
 
-## Provisional programme : Friday 4th of September
+## Provisional programme : Sunday 24th of July
 
 The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 
@@ -180,19 +180,6 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </span>
             </td>
         </tr>
-        <tr>
-            <th>10:40</th>
-            <td colspan="4" class="stage-venus">
-            Question and Answer: Engineering
-            <span>
-              Paper #5
-            </span>
-            <br/>
-            <span>
-              Paper #6
-            </span>
-            </td>
-        </tr>
        <tr>
             <th>10:40</th>
             <td colspan="4" class="stage-mercury">Break</td>
@@ -206,6 +193,19 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>11:20</th>
+            <td colspan="4" class="stage-venus">
+            Question and Answer: Engineering
+            <span>
+              Paper #5
+            </span>
+            <br/>
+            <span>
+              Paper #6
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>11:50</th>
             <td colspan="4" class="stage-mars">
             Question and Answer: Learning
             <span>
@@ -218,14 +218,14 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </td>
         </tr>
         <tr>
-            <th>11:50</th>
+            <th>12:20</th>
             <td colspan="4" class="stage-jupiter">Discussion panel
               <span> TBA
               </span>
             </td>
         </tr>
         <tr>
-            <th>12:30</th>
+            <th>12:50</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
