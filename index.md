@@ -137,6 +137,7 @@ After the workshop, we will consider applying for a journal special issue (journ
 </ul>
 </div>
 
+<!--
 ## Provisional programme : Sunday 24th of July
 
 The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
@@ -242,7 +243,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         </tr>
     </body>
 </table>
-
+-->
 <div style="margin-top:10px;"></div>
 
 <!-- ### Patronage
