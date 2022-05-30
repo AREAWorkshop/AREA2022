@@ -111,34 +111,28 @@ After the workshop, we will consider applying for a journal special issue (journ
 <div style="text-align:justify;">
 <ul>
   <li>
-  Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis. <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
+  	Débora C. Engelmann, Angelo Ferrando, Alison R. Panisson, Davide Ancona, Rafael H. Bordini and Viviana Mascardi. <i>RV4JaCa - Runtime Verification for Multi-Agent Systems</i>.
   </li>
   <li>
-  Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti. <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
+  	Yaniel Carreno, Yvan Petillot and Ron Petrick. <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.
   </li>
   <li>
-  Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi. <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
+  Or Wertheim, Dan Suissa and Ronen Brafman. <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.
   </li>
   <li>
-  Victoria Edwards, Loy McGuire and Signe Redfield. <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
+  Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard. <i>Careful autonomous agents in environments with multiple common resources</i>.
   </li>
   <li>
-  Simón C. Smith and Subramanian Ramamoorthy. <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
+ 	Dara MacConville, Marie Farrell, Matthew Luckcuck and Rosemary Monahan. <i>Modelling the Turtle Python library in CSP</i>.
   </li>
   <li>
-  Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen. <i>Testing the Robustness of AutoML Systems</i>.
+  	Andrea Gatti and Viviana Mascardi. <i>Towards Exploiting INTONATE, an INTerpreter Of Natural lAnguage wiTh agEnts, for Factory Automation</i>.
   </li>
   <li>
-  Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler. <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
+  Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner. <i>The Need for a Meta-Architecture for Robot Autonomy</i>.
   </li>
   <li>
-  Connor Basich, Justin Svegliato and Shlomo Zilberstein. <i>Improving Competence for Reliable Autonomy</i>.
-  </li>
-  <li>
-  Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari. <i>Toward Campus Mail Delivery Using BDI</i>.
-  </li>
-  <li>
-  Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari. <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
+  Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam. <i>Model Compression for Resource-Constrained Mobile Devices</i>.
   </li>
 </ul>
 </div>
