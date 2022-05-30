@@ -230,7 +230,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </td>
         </tr>
     </body>
-</table> -->
+</table>
 
 <div style="margin-top:10px;"></div>
 
