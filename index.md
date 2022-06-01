@@ -149,7 +149,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-saturn">Welcome</td>
         </tr>
         <tr>
-            <th>09:10</th>
+            <th>09:05</th>
             <td colspan="4" class="stage-earth">Invited talk: <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: TBA]</i>
               <span> 
                   <b>Title:</b> <i>Synthesis of Fail-Safe Behaviours</i> <br/>
@@ -164,7 +164,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>09:40</th>
             <td colspan="4" class="stage-venus">
-            Question and Answer: TBA
+            Session: TBA
             <span>
               Paper #1
             </span>
@@ -172,27 +172,18 @@ He has also worked on a wide range of artificial intelligence research problems,
             <span>
               Paper #2
             </span>
-            </td>
-        </tr>
-        <tr>
-            <th>10:10</th>
-            <td colspan="4" class="stage-mars">
-            Question and Answer: TBA
+            <br/>
             <span>
               Paper #3
             </span>
-            <br/>
-            <span>
-              Paper #4
-            </span>
             </td>
         </tr>
-       <tr>
+        <tr>
             <th>10:40</th>
             <td colspan="4" class="stage-mercury">Break</td>
         </tr>
         <tr>
-            <th>10:50</th>
+            <th>10:55</th>
           <td colspan="4" class="stage-earth">Invited talk: <a href="https://www-users.cs.york.ac.uk/~alcc/" target="_blank">Ana Cavalcanti</a> <i style="font-size:12px">[Chair: TBA]</i>
               <span> 
                   <b>Title:</b> <i>RoboWorld: assumption language for robotic systems</i> <br/>
@@ -204,9 +195,13 @@ He has also worked on a wide range of artificial intelligence research problems,
             </td>
         </tr>
         <tr>
-            <th>11:20</th>
+            <th>11:30</th>
             <td colspan="4" class="stage-venus">
             Question and Answer: TBA
+            <span>
+              Paper #4
+            </span>
+            <br/>
             <span>
               Paper #5
             </span>
@@ -217,7 +212,7 @@ He has also worked on a wide range of artificial intelligence research problems,
             </td>
         </tr>
         <tr>
-            <th>11:50</th>
+            <th>12:30</th>
             <td colspan="4" class="stage-mars">
             Question and Answer: TBA
             <span>
@@ -230,14 +225,7 @@ He has also worked on a wide range of artificial intelligence research problems,
             </td>
         </tr>
         <tr>
-            <th>12:20</th>
-            <td colspan="4" class="stage-jupiter">Discussion panel
-              <span> TBA
-              </span>
-            </td>
-        </tr>
-        <tr>
-            <th>12:50</th>
+            <th>13:10</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
