@@ -164,17 +164,20 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>09:40</th>
             <td colspan="4" class="stage-venus">
-            Session: TBA
+            Session: Verification
             <span>
-              Paper #1
+              <i>Careful autonomous agents in environments with multiple common resources</i>.<br/>
+              Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard.
             </span>
             <br/>
             <span>
-              Paper #2
+              <i>Modelling the Turtle Python library in CSP.</i><br/>
+              Dara MacConville, Marie Farrell, Matthew Luckcuck and Rosemary Monahan.
             </span>
             <br/>
             <span>
-              Paper #3
+              <i>RV4JaCa - Runtime Verification for Multi-Agent Systems</i>.<br/>
+              Débora C. Engelmann, Angelo Ferrando, Alison R. Panisson, Davide Ancona, Rafael H. Bordini and Viviana Mascardi.
             </span>
             </td>
         </tr>
@@ -197,17 +200,20 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>11:30</th>
             <td colspan="4" class="stage-venus">
-            Question and Answer: TBA
+            Session: Engineering
             <span>
-              Paper #4
+              <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
+              Or Wertheim, Dan Suissa and Ronen Brafman.
             </span>
             <br/>
             <span>
-              Paper #5
+              <i>The Need for a Meta-Architecture for Robot Autonomy</i>.<br/>
+              Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner.
             </span>
             <br/>
             <span>
-              Paper #6
+              <i>Towards Exploiting INTONATE, an INTerpreter Of Natural lAnguage wiTh agEnts, for Factory Automation</i>.<br/>
+              Andrea Gatti and Viviana Mascardi.
             </span>
             </td>
         </tr>
@@ -216,11 +222,13 @@ He has also worked on a wide range of artificial intelligence research problems,
             <td colspan="4" class="stage-mars">
             Question and Answer: TBA
             <span>
-              Paper #7
+              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
+              Yaniel Carreno, Yvan Petillot and Ron Petrick.
             </span>
             <br/>
             <span>
-              Paper #8
+              <i>Model Compression for Resource-Constrained Mobile Devices</i>.<br/>
+              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam.
             </span>
             </td>
         </tr>
