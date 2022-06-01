@@ -164,7 +164,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>09:40</th>
             <td colspan="4" class="stage-venus">
-            Session: Verification
+            Session: Verification [<i>Chair: TBA</i>]
             <span>
               <i>Careful autonomous agents in environments with multiple common resources</i>.<br/>
               Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard.
@@ -200,7 +200,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>11:30</th>
             <td colspan="4" class="stage-venus">
-            Session: Engineering
+            Session: Engineering [<i>Chair: TBA</i>]
             <span>
               <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
               Or Wertheim, Dan Suissa and Ronen Brafman.
@@ -220,7 +220,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>12:30</th>
             <td colspan="4" class="stage-mars">
-            Session: ??
+            Session: Planning and Learning [<i>Chair: TBA</i>]
             <span>
               <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
               Yaniel Carreno, Yvan Petillot and Ron Petrick.
