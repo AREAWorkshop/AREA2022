@@ -220,7 +220,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>12:30</th>
             <td colspan="4" class="stage-mars">
-            Question and Answer: TBA
+            Session: ??
             <span>
               <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
               Yaniel Carreno, Yvan Petillot and Ron Petrick.
