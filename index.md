@@ -137,7 +137,6 @@ After the workshop, we will consider applying for a journal special issue (journ
 </ul>
 </div>
 
-<!--
 ## Provisional programme : Sunday 24th of July
 
 The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
@@ -164,20 +163,20 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>09:40</th>
             <td colspan="4" class="stage-venus">
-            Session: Verification [<i>Chair: Fabio Papacchini</i>]
+            Session: Engineering [<i>Chair: Angelo Ferrando</i>]
             <span>
-              <i>Careful autonomous agents in environments with multiple common resources</i>.<br/>
-              Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard.
+              <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
+              Or Wertheim, Dan Suissa and Ronen Brafman.
             </span>
             <br/>
             <span>
-              <i>Modelling the Turtle Python library in CSP.</i><br/>
-              Dara MacConville, Marie Farrell, Matthew Luckcuck and Rosemary Monahan.
+              <i>The Need for a Meta-Architecture for Robot Autonomy</i>.<br/>
+              Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner.
             </span>
             <br/>
             <span>
-              <i>RV4JaCa - Runtime Verification for Multi-Agent Systems</i>.<br/>
-              Débora C. Engelmann, Angelo Ferrando, Alison R. Panisson, Davide Ancona, Rafael H. Bordini and Viviana Mascardi.
+              <i>Towards Exploiting INTONATE, an INTerpreter Of Natural lAnguage wiTh agEnts, for Factory Automation</i>.<br/>
+              Andrea Gatti and Viviana Mascardi.
             </span>
             </td>
         </tr>
@@ -200,25 +199,25 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>11:30</th>
             <td colspan="4" class="stage-venus">
-            Session: Engineering [<i>Chair: Angelo Ferrando</i>]
+            Session: Verification [<i>Chair: Fabio Papacchini</i>]
             <span>
-              <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
-              Or Wertheim, Dan Suissa and Ronen Brafman.
+              <i>Careful autonomous agents in environments with multiple common resources</i>.<br/>
+              Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard.
             </span>
             <br/>
             <span>
-              <i>The Need for a Meta-Architecture for Robot Autonomy</i>.<br/>
-              Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner.
+              <i>Modelling the Turtle Python library in CSP.</i><br/>
+              Dara MacConville, Marie Farrell, Matthew Luckcuck and Rosemary Monahan.
             </span>
             <br/>
             <span>
-              <i>Towards Exploiting INTONATE, an INTerpreter Of Natural lAnguage wiTh agEnts, for Factory Automation</i>.<br/>
-              Andrea Gatti and Viviana Mascardi.
+              <i>RV4JaCa - Runtime Verification for Multi-Agent Systems</i>.<br/>
+              Débora C. Engelmann, Angelo Ferrando, Alison R. Panisson, Davide Ancona, Rafael H. Bordini and Viviana Mascardi.
             </span>
             </td>
         </tr>
         <tr>
-            <th>12:30</th>
+            <th>12:25</th>
             <td colspan="4" class="stage-mars">
             Session: Planning and Learning [<i>Chair: Rafael C. Cardoso</i>]
             <span>
@@ -233,13 +232,13 @@ He has also worked on a wide range of artificial intelligence research problems,
             </td>
         </tr>
         <tr>
-            <th>13:10</th>
+            <th>13:05</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
     </body>
 </table>
--->
+
 <div style="margin-top:10px;"></div>
 
 <!-- ### Patronage
