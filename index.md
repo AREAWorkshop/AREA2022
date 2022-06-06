@@ -163,7 +163,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>09:40</th>
             <td colspan="4" class="stage-venus">
-            Session: Engineering [<i>Chair: Angelo Ferrando</i>]
+            Session: Engineering [<i style="font-size:12px">Chair: Angelo Ferrando</i>]
             <span>
               <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
               Or Wertheim, Dan Suissa and Ronen Brafman.
@@ -199,7 +199,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>11:30</th>
             <td colspan="4" class="stage-venus">
-            Session: Verification [<i>Chair: Fabio Papacchini</i>]
+            Session: Verification [<i style="font-size:12px">Chair: Fabio Papacchini</i>]
             <span>
               <i>Careful autonomous agents in environments with multiple common resources</i>.<br/>
               Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard.
@@ -219,7 +219,7 @@ He has also worked on a wide range of artificial intelligence research problems,
         <tr>
             <th>12:25</th>
             <td colspan="4" class="stage-mars">
-            Session: Planning and Learning [<i>Chair: Rafael C. Cardoso</i>]
+            Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
             <span>
               <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
               Yaniel Carreno, Yvan Petillot and Ron Petrick.
