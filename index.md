@@ -201,11 +201,6 @@ He has also worked on a wide range of artificial intelligence research problems,
             <td colspan="4" class="stage-venus">
             Session: Engineering [<i style="font-size:12px">Chair: Angelo Ferrando</i>]
             <span>
-              <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
-              Or Wertheim, Dan Suissa and Ronen Brafman.
-            </span>
-            <br/>
-            <span>
               <i>The Need for a Meta-Architecture for Robot Autonomy</i>.<br/>
               Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner.
             </span>
@@ -214,6 +209,11 @@ He has also worked on a wide range of artificial intelligence research problems,
               <i>Towards Exploiting INTONATE, an INTerpreter Of Natural lAnguage wiTh agEnts, for Factory Automation</i>.<br/>
               Andrea Gatti and Viviana Mascardi.
             </span>
+            <br/>
+             <span>
+              <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
+              Or Wertheim, Dan Suissa and Ronen Brafman.
+             </span>
             </td>
         </tr>
         <tr>
