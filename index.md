@@ -198,6 +198,21 @@ He has also worked on a wide range of artificial intelligence research problems,
         </tr>
         <tr>
             <th>11:25</th>
+            <td colspan="4" class="stage-mars">
+            Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
+            <span>
+              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
+              Yaniel Carreno, Yvan Petillot and Ron Petrick.
+            </span>
+            <br/>
+            <span>
+              <i>Model Compression for Resource-Constrained Mobile Devices</i>.<br/>
+              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam.
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>12:05</th>
             <td colspan="4" class="stage-venus">
             Session: Engineering [<i style="font-size:12px">Chair: Angelo Ferrando</i>]
             <span>
@@ -214,21 +229,6 @@ He has also worked on a wide range of artificial intelligence research problems,
               <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
               Or Wertheim, Dan Suissa and Ronen Brafman.
              </span>
-            </td>
-        </tr>
-        <tr>
-            <th>12:25</th>
-            <td colspan="4" class="stage-mars">
-            Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
-            <span>
-              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
-              Yaniel Carreno, Yvan Petillot and Ron Petrick.
-            </span>
-            <br/>
-            <span>
-              <i>Model Compression for Resource-Constrained Mobile Devices</i>.<br/>
-              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam.
-            </span>
             </td>
         </tr>
         <tr>
