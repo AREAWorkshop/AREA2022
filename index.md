@@ -349,7 +349,7 @@ He has also worked on a wide range of artificial intelligence research problems,
   <li>Terry Payne, University of Liverpool (UK)</li>
   <li>Mohammad Mehdi Pourhashem, University of Science and Technology of Mazandaran (Iran)</li>
 <li>Pedro Ribeiro, University of York (UK)</li>
-<li>Alessandro Ricci, University of Bologna (Italy)</li>
+<!-- <li>Alessandro Ricci, University of Bologna (Italy)</li> -->
   <li>Matteo Rossi, Politecnico di Milano (Italy)</li>
 <li>Christos Tsigkanos, Technical University of Vienna (Austria)</li>
 </ul>
