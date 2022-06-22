@@ -132,7 +132,7 @@ After the workshop, we will consider applying for a journal special issue (journ
   Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner. <i>The Need for a Meta-Architecture for Robot Autonomy</i>.
   </li>
   <li>
-  Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam. <i>Model Compression for Resource-Constrained Mobile Devices</i>.
+  Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam. <i>Model Compression for Resource-Constrained Mobile Robots</i>.
   </li>
 </ul>
 </div>
