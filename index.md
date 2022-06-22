@@ -38,7 +38,7 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div class="columns large-7" >
 <div markdown="1">
   
-## Provisional programme : Sunday 24th of July
+## Workshop Programme : Sunday 24th of July
 
 The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 
@@ -289,10 +289,10 @@ After the workshop, we will consider applying for a journal special issue (journ
 
 <ul>
 <!--<li><b>Abstract Submission (optional): 29th April 2022</b></li>-->
-<li><b>Paper Submission Deadline: <strike>6th May 2022 (AoE, UTC-12)</strike> 13th May 2022 (AoE, UTC-12)</b></li>
+<li>Paper Submission Deadline: <strike>6th May 2022 (AoE, UTC-12)</strike> 13th May 2022 (AoE, UTC-12)</li>
 <li>Paper Notification: 27th May 2022</li>
 <li>Camera Ready: 20th June 2022</li>
-<li>Workshop: Morning of the 24th July 2022</li>
+<li><b>Workshop: Morning of the 24th July 2022</b></li>
 </ul>
   
 ## Registration
