@@ -139,6 +139,9 @@ He has also worked on a wide range of artificial intelligence research problems,
         </tr>
     </body>
 </table>
+
+<br>
+<br>
   
 ## Aim
 
