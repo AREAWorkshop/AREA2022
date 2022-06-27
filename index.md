@@ -122,7 +122,7 @@ He has also worked on a wide range of artificial intelligence research problems,
             </span>
             <br/>
             <span>
-              <i>Towards Exploiting INTONATE, an INTerpreter Of Natural lAnguage wiTh agEnts, for Factory Automation</i>.<br/>
+              <i>Towards VEsNA, a Framework for Managing Virtual Environments via Natural Language Agents</i>.<br/>
               Andrea Gatti and Viviana Mascardi.
             </span>
             <br/>
@@ -233,7 +233,7 @@ After the workshop, we will consider applying for a journal special issue (journ
  	Dara MacConville, Marie Farrell, Matthew Luckcuck and Rosemary Monahan. <i>Modelling the Turtle Python library in CSP</i>.
   </li>
   <li>
-  	Andrea Gatti and Viviana Mascardi. <i>Towards Exploiting INTONATE, an INTerpreter Of Natural lAnguage wiTh agEnts, for Factory Automation</i>.
+  	Andrea Gatti and Viviana Mascardi. <i>Towards VEsNA, a Framework for Managing Virtual Environments via Natural Language Agents</i>.
   </li>
   <li>
   Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner. <i>The Need for a Meta-Architecture for Robot Autonomy</i>.
