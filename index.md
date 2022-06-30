@@ -102,13 +102,13 @@ He has also worked on a wide range of artificial intelligence research problems,
             <td colspan="4" class="stage-mars">
             Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
             <span>
-              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
-              Yaniel Carreno, Yvan Petillot and Ron Petrick.
+              <i>Model Compression for Resource-Constrained Mobile Robots</i>.<br/>
+              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam.
             </span>
             <br/>
             <span>
-              <i>Model Compression for Resource-Constrained Mobile Robots</i>.<br/>
-              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam.
+              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
+              Yaniel Carreno, Yvan Petillot and Ron Petrick.
             </span>
             </td>
         </tr>
