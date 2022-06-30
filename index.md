@@ -117,13 +117,13 @@ He has also worked on a wide range of artificial intelligence research problems,
             <td colspan="4" class="stage-venus">
             Session: Engineering [<i style="font-size:12px">Chair: Angelo Ferrando</i>]
             <span>
-              <i>The Need for a Meta-Architecture for Robot Autonomy</i>.<br/>
-              Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner.
+              <i>Towards VEsNA, a Framework for Managing Virtual Environments via Natural Language Agents</i>.<br/>
+              Andrea Gatti and Viviana Mascardi.
             </span>
             <br/>
             <span>
-              <i>Towards VEsNA, a Framework for Managing Virtual Environments via Natural Language Agents</i>.<br/>
-              Andrea Gatti and Viviana Mascardi.
+              <i>The Need for a Meta-Architecture for Robot Autonomy</i>.<br/>
+              Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner.
             </span>
             <br/>
              <span>
