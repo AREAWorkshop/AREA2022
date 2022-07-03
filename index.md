@@ -40,7 +40,7 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
   
 ## Workshop Programme : Sunday 24th of July
 
-The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
+Time in <a href="https://time.is/CEST">CEST timezone</a>.
 
 <table>
     <body>
@@ -53,9 +53,9 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-earth">Invited talk: <a href="https://alechina-logan.net/brian/" target="_blank">Brian Logan</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>
               <span> 
                   <b>Title:</b> <i>Synthesis of Fail-Safe Behaviours</i> <br/>
-                  <b>Abstract:</b> Reactive synthesis techniques have been proposed  as a way to automate the production of software for autonomous cyber-physical systems. Such techniques have the advantage that the resulting software is guaranteed to realise a given target behaviour if the behaviour and models of the resources provided as input are themselves correct. <span id="dots1">...</span> <span id="more1" style="display:none">However, if the target specifies an unsafe behaviour, or the resource operations are unsafe, incorrectly programmed or the resource models fail to anticipate some failure modes, then synthesis may result in a “correct", but unsafe controller. In this talk, I present an approach to the synthesis of fail-safe controllers that orchestrate the activities of a set of resources to realise a target behaviour, and in addition guarantee the resulting behaviour conforms to a fail-safe specification defining what should happen if an abnormal event occurs.<br/>
+<!--                  <b>Abstract:</b> Reactive synthesis techniques have been proposed  as a way to automate the production of software for autonomous cyber-physical systems. Such techniques have the advantage that the resulting software is guaranteed to realise a given target behaviour if the behaviour and models of the resources provided as input are themselves correct. <span id="dots1">...</span> <span id="more1" style="display:none">However, if the target specifies an unsafe behaviour, or the resource operations are unsafe, incorrectly programmed or the resource models fail to anticipate some failure modes, then synthesis may result in a “correct", but unsafe controller. In this talk, I present an approach to the synthesis of fail-safe controllers that orchestrate the activities of a set of resources to realise a target behaviour, and in addition guarantee the resulting behaviour conforms to a fail-safe specification defining what should happen if an abnormal event occurs.<br/>
                   <b>Short Bio:</b> Prof. Brian Logan is a Professor of Computing Science at the University of Aberdeen and visiting Associate Professor at Utrecht University. He also has an honorary position (Special Professor), at the University of Nottingham. His research interests span the specification, design and implementation of autonomous intelligent systems. A key theme of his work is 'safe AI', specifically ensuring that autonomous intelligent systems function safely and in accordance with their design objectives. The current focus of his research is ensuring the safe behaviour of autonomous systems that adapt or learn at run time.
-He has also worked on a wide range of artificial intelligence research problems, including belief revision, reasoning, search and in agent-based simulation.  
+He has also worked on a wide range of artificial intelligence research problems, including belief revision, reasoning, search and in agent-based simulation.  -->
                  </span>
               <button style="color:blue;" onclick="myFunction1()" id="myBtn1">Read more</button>
               </span>
@@ -66,18 +66,18 @@ He has also worked on a wide range of artificial intelligence research problems,
             <td colspan="4" class="stage-venus">
             Session: Verification [<i style="font-size:12px">Chair: Fabio Papacchini</i>]
             <span>
-              <i>Careful autonomous agents in environments with multiple common resources</i>.<br/>
-              Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard.
+              <i>Careful autonomous agents in environments with multiple common resources</i><br/>
+              Rodica Condurache, Catalin Dima, Madalina Jitaru, Youssouf Oualhadj and Nicolas Troquard
             </span>
             <br/>
             <span>
-              <i>Modelling the Turtle Python library in CSP.</i><br/>
-              Dara MacConville, Marie Farrell, Matthew Luckcuck and Rosemary Monahan.
+              <i>Modelling the Turtle Python library in CSP</i><br/>
+              Dara MacConville, Marie Farrell, Matthew Luckcuck and Rosemary Monahan
             </span>
             <br/>
             <span>
-              <i>RV4JaCa - Runtime Verification for Multi-Agent Systems</i>.<br/>
-              Débora C. Engelmann, Angelo Ferrando, Alison R. Panisson, Davide Ancona, Rafael H. Bordini and Viviana Mascardi.
+              <i>RV4JaCa - Runtime Verification for Multi-Agent Systems</i><br/>
+              Débora C. Engelmann, Angelo Ferrando, Alison R. Panisson, Davide Ancona, Rafael H. Bordini and Viviana Mascardi
             </span>
             </td>
         </tr>
@@ -90,8 +90,8 @@ He has also worked on a wide range of artificial intelligence research problems,
           <td colspan="4" class="stage-earth">Invited talk: <a href="https://www-users.cs.york.ac.uk/~alcc/" target="_blank">Ana Cavalcanti</a> <i style="font-size:12px">[Chair: Angelo Ferrando]</i>
               <span> 
                   <b>Title:</b> <i>RoboWorld: assumption language for robotic systems</i> <br/>
-                  <b>Abstract:</b> Robots affect and are affected by the environment.  Operational requirements often restrict the conditions in which a robot can be used, and many of the expected and desirable properties of a robotic system depend on properties of its environment.  Defining a complete model of the environment is not possible, in general, but it is possible to capture assumptions about the environment. <span id="dots2">...</span> <span id="more2" style="display:none">We will present a controlled natural language called RoboWorld that can be used to define (a) the operational requirements of a robot, and (b) how the robot interacts with its environment. RoboWorld has a hybrid process-algebraic semantics.  RoboWorld is part of the RoboStar framework of domain-specific languages, and plays a central role in proof, simulation, and testing of robotic systems.<br/>
-                  <b>Short Bio:</b> Prof. Ana Cavalcanti's focus of her career has always been research. Her first publication came as an undergraduate student in 1987, when she got a prize from the Brazilian Computer Society. In Brazil, she pursued an MSc by Research (typically taken full time over two to three years); it was necessary to obtain funding for a PhD. At that level, she was already interacting with the international community, via the publication of book chapters and workshop papers. After the PhD in Oxford, she got a permanent Lectureship in the top Brazilian research group in formal methods. In those five years, she established herself as an independent researcher. In that position, she had a significant number of research students under her supervision. She published well in top national and international venues. In the evaluation of the Brazilian Research Council, she had the best possible classification for her level of experience. At York, she seeks to validate theories using real-world problems. Her main scientific achievements have been on the design and justification of sound refinement-based program development and verification techniques. She has covered theoretical and practical integration with industry-strength technology: concurrency, object-orientation, and testing, for instance.
+<!--                  <b>Abstract:</b> Robots affect and are affected by the environment.  Operational requirements often restrict the conditions in which a robot can be used, and many of the expected and desirable properties of a robotic system depend on properties of its environment.  Defining a complete model of the environment is not possible, in general, but it is possible to capture assumptions about the environment. <span id="dots2">...</span> <span id="more2" style="display:none">We will present a controlled natural language called RoboWorld that can be used to define (a) the operational requirements of a robot, and (b) how the robot interacts with its environment. RoboWorld has a hybrid process-algebraic semantics.  RoboWorld is part of the RoboStar framework of domain-specific languages, and plays a central role in proof, simulation, and testing of robotic systems.<br/>
+                  <b>Short Bio:</b> Prof. Ana Cavalcanti's focus of her career has always been research. Her first publication came as an undergraduate student in 1987, when she got a prize from the Brazilian Computer Society. In Brazil, she pursued an MSc by Research (typically taken full time over two to three years); it was necessary to obtain funding for a PhD. At that level, she was already interacting with the international community, via the publication of book chapters and workshop papers. After the PhD in Oxford, she got a permanent Lectureship in the top Brazilian research group in formal methods. In those five years, she established herself as an independent researcher. In that position, she had a significant number of research students under her supervision. She published well in top national and international venues. In the evaluation of the Brazilian Research Council, she had the best possible classification for her level of experience. At York, she seeks to validate theories using real-world problems. Her main scientific achievements have been on the design and justification of sound refinement-based program development and verification techniques. She has covered theoretical and practical integration with industry-strength technology: concurrency, object-orientation, and testing, for instance. -->
                  </span>
              <button style="color:blue;" onclick="myFunction2()" id="myBtn2">Read more</button>
               </span>
@@ -102,13 +102,13 @@ He has also worked on a wide range of artificial intelligence research problems,
             <td colspan="4" class="stage-mars">
             Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
             <span>
-              <i>Model Compression for Resource-Constrained Mobile Robots</i>.<br/>
-              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam.
+              <i>Model Compression for Resource-Constrained Mobile Robots</i><br/>
+              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam
             </span>
             <br/>
             <span>
-              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i>.<br/>
-              Yaniel Carreno, Yvan Petillot and Ron Petrick.
+              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i><br/>
+              Yaniel Carreno, Yvan Petillot and Ron Petrick
             </span>
             </td>
         </tr>
@@ -117,18 +117,18 @@ He has also worked on a wide range of artificial intelligence research problems,
             <td colspan="4" class="stage-venus">
             Session: Engineering [<i style="font-size:12px">Chair: Angelo Ferrando</i>]
             <span>
-              <i>Towards VEsNA, a Framework for Managing Virtual Environments via Natural Language Agents</i>.<br/>
-              Andrea Gatti and Viviana Mascardi.
+              <i>Towards VEsNA, a Framework for Managing Virtual Environments via Natural Language Agents</i><br/>
+              Andrea Gatti and Viviana Mascardi
             </span>
             <br/>
             <span>
-              <i>The Need for a Meta-Architecture for Robot Autonomy</i>.<br/>
-              Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner.
+              <i>The Need for a Meta-Architecture for Robot Autonomy</i><br/>
+              Stalin Muñoz Gutiérrez and Gerald Steinbauer-Wagner
             </span>
             <br/>
              <span>
-              <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i>.<br/>
-              Or Wertheim, Dan Suissa and Ronen Brafman.
+              <i>Towards Plug’n Play Task-Level Autonomy for Robotics Using POMDPs and Generative Models</i><br/>
+              Or Wertheim, Dan Suissa and Ronen Brafman
              </span>
             </td>
         </tr>
