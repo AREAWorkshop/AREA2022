@@ -210,7 +210,7 @@ The proceedings of the workshop will be published with EPTCS (<a href="http://ww
 <br><br>
 Submission link: <a href="https://easychair.org/my/conference?conf=area22">https://easychair.org/my/conference?conf=area22</a>
 <br><br>
-After the workshop, we will consider applying for a journal special issue (journal to be selected later), where revised selected and extended papers can be published.
+A special issue of the Workshop will be published on Robotics (https://www.mdpi.com/journal/robotics/special_issues/1G9447AW7O).
 </p>
 
 ## Accepted Papers
