@@ -83,10 +83,30 @@ He has also worked on a wide range of artificial intelligence research problems,
         </tr>
         <tr>
             <th>10:35</th>
+            <td colspan="4" class="stage-mars">
+            Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
+            <span>
+              <i>Model Compression for Resource-Constrained Mobile Robots</i><br/>
+              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>10:55</th>
             <td colspan="4" class="stage-mercury">Break</td>
         </tr>
         <tr>
-            <th>10:50</th>
+            <th>11:15</th>
+            <td colspan="4" class="stage-mars">
+            Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
+            <span>
+              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i><br/>
+              Yaniel Carreno, Yvan Petillot and Ron Petrick
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>11:35</th>
           <td colspan="4" class="stage-earth">Invited talk: <a href="https://www-users.cs.york.ac.uk/~alcc/" target="_blank">Ana Cavalcanti</a> <i style="font-size:12px">[Chair: Angelo Ferrando]</i>
               <span> 
                   <b>Title:</b> <i>RoboWorld: assumption language for robotic systems</i> <br/>
@@ -98,22 +118,7 @@ He has also worked on a wide range of artificial intelligence research problems,
             </td>
         </tr>
         <tr>
-            <th>11:25</th>
-            <td colspan="4" class="stage-mars">
-            Session: Planning and Learning [<i style="font-size:12px">Chair: Rafael C. Cardoso</i>]
-            <span>
-              <i>Model Compression for Resource-Constrained Mobile Robots</i><br/>
-              Timotheos Souroulla, Alberto Yukinobu Hata, Ahmad Terra, Özer Özkahraman and Rafia Inam
-            </span>
-            <br/>
-            <span>
-              <i>Temporal Planning with Incomplete Knowledge and Perceptual Information</i><br/>
-              Yaniel Carreno, Yvan Petillot and Ron Petrick
-            </span>
-            </td>
-        </tr>
-        <tr>
-            <th>12:05</th>
+            <th>12:10</th>
             <td colspan="4" class="stage-venus">
             Session: Engineering [<i style="font-size:12px">Chair: Angelo Ferrando</i>]
             <span>
@@ -133,7 +138,7 @@ He has also worked on a wide range of artificial intelligence research problems,
             </td>
         </tr>
         <tr>
-            <th>13:05</th>
+            <th>13:10</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
