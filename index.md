@@ -38,6 +38,10 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 <div class="columns large-7" >
 <div markdown="1">
   
+## Special Issue
+We are organising a special issue based on the topics of the Workshop for the Robotics journal. More information can be found <a href="https://www.mdpi.com/journal/robotics/special_issues/1G9447AW7O">here</a>.<br>
+ 
+  
 ## Workshop Programme : Sunday 24th of July
 
 Time in <a href="https://time.is/CEST">CEST timezone</a>.
@@ -216,9 +220,7 @@ The proceedings of the workshop will be published with EPTCS (<a href="http://ww
 Submission link: <a href="https://easychair.org/my/conference?conf=area22">https://easychair.org/my/conference?conf=area22</a>
 </p>
   
-## Special Issue
-We are organising a special issue based on the topics of the Workshop for the Robotics journal. More information can be found <a href="https://www.mdpi.com/journal/robotics/special_issues/1G9447AW7O">here</a>.<br>
-<b>Deadline for manuscript submissions: 15 February 2023</b> 
+
 
 ## Accepted Papers
 
@@ -300,6 +302,7 @@ We are organising a special issue based on the topics of the Workshop for the Ro
 <li>Paper Notification: 27th May 2022</li>
 <li>Camera Ready: 20th June 2022</li>
 <li><b>Workshop: Morning of the 24th July 2022</b></li>
+<li><b>Special Issue Deadline: 15 February 2023</b></li>
 </ul>
   
 ## Registration
