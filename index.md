@@ -214,9 +214,11 @@ Each submission will receive at least three single-blind reviews. All papers sho
 The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
 Submission link: <a href="https://easychair.org/my/conference?conf=area22">https://easychair.org/my/conference?conf=area22</a>
-<br><br>
-A special issue of the Workshop will be published on Robotics (https://www.mdpi.com/journal/robotics/special_issues/1G9447AW7O).
 </p>
+  
+## Special Issue
+We are organising a special issue based on the topics of the Workshop for the Robotics journal. More information can be found <a href="https://www.mdpi.com/journal/robotics/special_issues/1G9447AW7O">here</a>.<br>
+<b>Deadline for manuscript submissions: 15 February 2023</b> 
 
 ## Accepted Papers
 
