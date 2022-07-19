@@ -37,6 +37,9 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 
 <div class="columns large-7" >
 <div markdown="1">
+
+## Proceedings
+The AREA 2022 proceedings are available at [https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2022](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2022).<br>
   
 ## Special Issue
 We are organising a special issue based on the topics of the Workshop for the Robotics journal. More information can be found <a href="https://www.mdpi.com/journal/robotics/special_issues/1G9447AW7O">here</a>.<br>
