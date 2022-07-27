@@ -37,12 +37,17 @@ image: https://areaworkshop.github.io/AREA2022/images/logos/area_logo_1.png
 
 <div class="columns large-7" >
 <div markdown="1">
-
-## Proceedings
-The AREA 2022 proceedings are available at [https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2022](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2022).<br>
   
 ## Special Issue
 We are organising a special issue based on the topics of the Workshop for the Robotics journal. More information can be found <a href="https://www.mdpi.com/journal/robotics/special_issues/1G9447AW7O">here</a>.<br>
+  
+## Proceedings
+The AREA 2022 proceedings are available at [https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2022](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?AREA2022).<br>
+
+## Recordings
+The recordings of the AREA 2022 workshop are available at [https://youtube.com/playlist?list=PLcWHQv5jcNZrqAzVOPmmWBL4_0t1CQih1](https://youtube.com/playlist?list=PLcWHQv5jcNZrqAzVOPmmWBL4_0t1CQih1).<br>
+  
+
  
   
 ## Workshop Programme : Sunday 24th of July
@@ -304,7 +309,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area22">https
 <li>Paper Submission Deadline: <strike>6th May 2022 (AoE, UTC-12)</strike> 13th May 2022 (AoE, UTC-12)</li>
 <li>Paper Notification: 27th May 2022</li>
 <li>Camera Ready: 20th June 2022</li>
-<li><b>Workshop: Morning of the 24th July 2022</b></li>
+<li>Workshop: Morning of the 24th July 2022</li>
 <li><b>Special Issue Deadline: 15 February 2023</b></li>
 </ul>
   
